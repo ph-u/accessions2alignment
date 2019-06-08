@@ -1,9 +1,5 @@
 
-# accessions2alignment: Accession numbers to sequence alignment handler (ver 0.0)
-
-Coded by: ph-u  
-Coded during: 17-19, 26 May 2019  
-Markdown written: 19, 26, 31 May 2019
+# accessions2alignment: Accession numbers to sequence alignment handler
 
 ## Welcome
 
