@@ -7,6 +7,16 @@ This is a detailed instruction page introducing the program, an R-based genetic 
 &nbsp;  
 For Windows users, there is currently **NO** method of programming preparation.  [Cygwin][Cygwin] is NOT supported by [Rtools*.exe][Rtools] even though R adaptations still [exist][adpt] (search for keywords "cygwin" for more related information in these documentations).  A potential solution is to make a second boot operation system (OS) for a Linux distribution (e.g. [Ubuntu][Ubuntu]) which make all Linux commands and programs usable.  
 
+## Primitive setup
+
+Go to the "release" page and download the latest version.  Unzip the download file and it should be good to go.  
+If not, please do the following in the Unix concole:
+
+1. Type `cd` and pull the unzipped "accesions2alignment" folder into the concole, then press `enter`
+2. Type `chmod u+x *.sh; chmod u+x *.R`, then press `enter`.
+
+And the program is ready for use.
+
 ## Computational preparation
 
 * Terminal.app (i.e. MacOS or any Linux-based OS)
