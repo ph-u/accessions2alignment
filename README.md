@@ -14,8 +14,6 @@ For Windows users, there is currently **NO** method of programming preparation. 
 * your data: if you want to grab from NCBI, .csv OR .txt tabular formatted file; if you want to align & combine your own FASTA files, one folder containing all your raw sequences WITHOUT SEQUENCE NAME DUPLICATION
 * workable internet (if this is your first run or you want to grab sequences from [NCBI][NCBI])
 
-&nbsp;  
-
 ## 1. Online NCBI sequence extraction
 
 ### 1.1 Input data requirements
@@ -58,11 +56,6 @@ Error | Description
 `5xx` | don't attempt to grab sequence again for the next **30 mins**, and input a larger integer (recommend: 15 or more) in the `<type non-zero integer short break (in minute)>` entry for your next attempt
 
 ***
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
 
 ## 2. Local sequence handler
 
@@ -96,12 +89,6 @@ Name | Description
 {seq name}_aln.fa | aligned sequence FASTA file for one sequence input file
 00_all_fused.fa | (multiple FASTA files in input folder only) FASTA file output fusing all individual input sequences, containing all considered taxa
 00_all_fused_summary.csv | aligned sequence lengths of your input
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
 
 ## Citations
 
