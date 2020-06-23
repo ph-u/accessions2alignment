@@ -23,6 +23,7 @@ And the program is ready for use.
 * R version >=3.5.0 (R language [website][R]; if you are not clear about your R version, type `R --version` into your Unix-type command console and press "enter" to check)
 * your data: if you want to grab from NCBI, .csv OR .txt tabular formatted file; if you want to align & combine your own FASTA files, one folder containing all your raw sequences WITHOUT SEQUENCE NAME DUPLICATION
 * workable internet (if this is your first run or you want to grab sequences from [NCBI][NCBI])
+* there are some known issue related to the first installation; please refer to the `KNOWN_package_issues.md` to get it fixed
 
 ## 1. Online NCBI sequence extraction
 
